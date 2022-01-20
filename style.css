@@ -1,0 +1,21 @@
+#header{
+    color:steelblue;
+    background-color: powderblue;
+    top: 0;
+    position: absolute;
+    width: 100%;
+}
+
+#footer{
+    color:steelblue;
+    background-color: powderblue;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+
+#animalimg{
+    width: 300px;
+    height: 300px;
+    border: dashed dodgerblue 3px;
+}
